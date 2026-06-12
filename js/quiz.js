@@ -13,9 +13,9 @@ correta:"Medicina Veterinária"
 },
 
 {
-pergunta:"Qual meu personagem favorito de One Piece?",
-respostas:["Luffy","Ace","Zoro","Sanji"],
-correta:"Zoro"
+pergunta:"Qual é meu maior vício?",
+respostas:["Anime","Pizza","Pokémon","Você ❤️"],
+correta:"Você ❤️"
 },
 {
 pergunta:"Se eu pudesse morar em qualquer lugar, onde seria?",
@@ -51,42 +51,49 @@ correta:"Taylorlismo"
 },
 
 {
-pergunta:"Qual meu anime favorito?",
+pergunta:"Qual a data da nossa primeira vez?",
 respostas:[
-"Naruto",
-"Dragon Ball",
-"Crônicas de um Aristocrata",
-"One Piece"
+"30 de abril",
+"30 de março",
+"30 de maio",
+"não sei"
 ],
-correta:"Crônicas de um Aristocrata"
+correta:"30 de abril"
 },
 
 {
-pergunta:"O que eu faço quando estou sozinho?",
+pergunta:"Que dia foi o nosso primeiro selinho?",
 respostas:[
-"Durmo",
-"Jogo",
-"Vou cagar",
-"Vejo anime"
+"15 de março",
+"14 de março",
+"13 de março",
+"20 de março"
 ],
-correta:"Vou cagar"
+correta:"15 de março"
 },
 
 {
-pergunta:"Qual meu Pokémon favorito?",
+{
+pergunta:"Quem foi o primeiro a dizer 'eu te amo'?",
 respostas:[
-"Lucario",
-"Pikachu",
-"Charizard",
-"Gengar"
+"Eu ❤️",
+"Você ❤️",
+"Foi ao mesmo tempo ❤️",
+"Ninguém ainda 😅"
 ],
-correta:"Lucario"
+correta:"Eu ❤️"
 },
 {
-pergunta:"Qual inicial Pokémon eu normalmente escolheria?",
-respostas:["Tipo Água","Tipo Fogo","Tipo Planta","Aleatório"],
-correta:"Tipo Água"
+pergunta:"Quem faz mais drama?",
+respostas:[
+"Eu 😅",
+"Você 😅",
+"Os dois 😂",
+"Ninguém 😇"
+],
+correta:"Você 😅"
 },
+
 
 
 ];
