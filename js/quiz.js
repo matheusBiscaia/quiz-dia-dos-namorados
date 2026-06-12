@@ -72,7 +72,7 @@ respostas:[
 correta:"15 de março"
 },
 
-{
+
 {
 pergunta:"Quem foi o primeiro a dizer 'eu te amo'?",
 respostas:[
